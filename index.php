@@ -1,3 +1,3 @@
 <?php
-  echo "Hello World! Arpit Pathak here"
+print 'Hello World! Arpit Pathak here';
 ?>
