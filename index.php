@@ -1,3 +1,3 @@
 <?php
-print 'Hello World! Arpit Pathak here...welcome to task2';
+print 'Hello World! Arpit Pathak here.';
 ?>
